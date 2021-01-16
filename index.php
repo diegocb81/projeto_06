@@ -12,18 +12,18 @@
 </head>
 
 <body>
-    <div class="icons-social">
-        <a href="https://facebook.com"><i class="fab fa-facebook" aria-hidden="true"></i></a>
-        <a href="https://instagram.com"><i class="fab fa-instagram" aria-hidden="true"></i></a>
-    </div>
-    <!--icons-social-->
     <section class="main">
+        <div class="layer"></div><!--layer-->
         <div class="center">
             <header>
+                <div class="icons-social">
+                    <a href="https://facebook.com"><i class="fab fa-facebook" aria-hidden="true"></i></a>
+                    <a href="https://instagram.com"><i class="fab fa-instagram" aria-hidden="true"></i></a>
+                </div><!--icons-social-->
+                <div class="clear"></div>
                 <div class="logo">
                     DAST
-                </div>
-                <!--logo-->
+                </div><!--logo-->
                 <nav class="desktop">
                     <ul>
                         <li><a href="">Home</a></li>
@@ -31,11 +31,10 @@
                         <li><a href="">Contato</a></li>
                     </ul>
                 </nav>
+                <div class="clear"></div>
             </header>
-        </div>
-        <!--center-->
-    </section>
-    <!--main-->
+        </div><!--center-->
+    </section><!--main-->
 
 </body>
 
