@@ -129,3 +129,19 @@ nav.desktop a{
     line-height: 44px;
     border-radius: 20px;
 }
+
+.chamada-planos{
+    width: 100%;
+    text-align: center;
+    padding: 27px 2%;
+    background: rgb(220,220,220);
+}
+
+.chamada-planos h2{
+    display: inline-block;
+    border-top: 2px solid #2692FF;
+    color: #2692FF;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: lighter;
+}

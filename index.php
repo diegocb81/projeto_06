@@ -48,6 +48,31 @@
     </section>
     <!--main-->
 
+    <section class="planos">
+        <div class="chamada-planos">
+            <div class="center">
+                <h2>Confira nossos planos</h2>
+            </div>
+            <!--center-->
+        </div>
+        <!--chamada-plano-->
+        <section class="box-planos">
+            <div class="center">
+                <div class="box-planos-single">
+                    <h2>Lorem Ipsum</h2>
+                    <div class="pontos-plano">
+                        <p>Lorem Ipsum silor domor</p>
+                        <p>Lorem Ipsum silor domor</p>
+                        <p>Lorem Ipsum silor domor</p>
+                        <p>Lorem Ipsum silor domor</p>
+                    </div><!--pontos-plano-->
+                </div><!--box-planos-->
+            </div>
+            <!--center-->
+        </section>
+        <!--box-planos-->
+    </section>
+
 </body>
 
 </html>
