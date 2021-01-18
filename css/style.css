@@ -114,6 +114,7 @@ nav.desktop a{
     margin-top: 18px;
     font-size: 16px;
     font-weight: lighter;
+    text-align: justify;
 }
 
 .conteudo-header a{
