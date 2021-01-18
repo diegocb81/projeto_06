@@ -145,3 +145,67 @@ nav.desktop a{
     text-transform: uppercase;
     font-weight: lighter;
 }
+
+.box-planos{
+    padding: 40px 0;
+}
+
+.box-planos > .center{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box-planos-single{
+    width: 33.3%;
+    padding: 0 40px;
+}
+
+.box-planos-wraper{
+    width: 100%;
+    border: 1px solid #cccccc;
+    min-height: 300px;
+    -webkit-box-shadow: 10px 9px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 9px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 9px 5px 0px rgba(0,0,0,0.75);
+}
+
+.box-planos-single h2{
+    background: #2692FF;
+    color: white;
+    text-align: center;
+    padding: 3px;
+    font-weight: lighter;
+}
+
+.pontos-plano{
+    padding: 8px 0 15px 0;
+}
+
+.preco{
+    margin-top: 10px;
+    padding: 15px 0;
+    text-align: center;
+}
+
+.preco h2{
+    font-size: 24px;
+    color: #777777;
+    border-top: 1px solid #cccccc;
+    display: inline-block;
+    background-color: transparent;
+    padding: 0 20px;
+}
+
+.box-planos-single p{
+    color: #777777;
+    font-size: 17px;
+    margin-top: 8px;
+    margin-left: 20px;
+}
+
+@media screen and (max-width: 768px){
+    .box-planos-single{
+        width: 100%;
+        margin: 10px 0;
+    }
+}

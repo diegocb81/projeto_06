@@ -59,14 +59,62 @@
         <section class="box-planos">
             <div class="center">
                 <div class="box-planos-single">
-                    <h2>Lorem Ipsum</h2>
-                    <div class="pontos-plano">
-                        <p>Lorem Ipsum silor domor</p>
-                        <p>Lorem Ipsum silor domor</p>
-                        <p>Lorem Ipsum silor domor</p>
-                        <p>Lorem Ipsum silor domor</p>
-                    </div><!--pontos-plano-->
-                </div><!--box-planos-->
+                    <div class="box-planos-wraper">
+                        <h2>Lorem Ipsum</h2>
+                        <div class="pontos-plano">
+                            <p><i class="fa fa-check-square"></i>Lorem Ipsum silor domor</p>
+                            <p><i class="fa fa-check-square"></i>Lorem Ipsum silor domor</p>
+                            <p><i class="fa fa-check-square"></i>Lorem Ipsum silor domor</p>
+                            <p><i class="fa fa-check-square"></i>Lorem Ipsum silor domor</p>
+                        </div>
+                        <!--pontos-plano-->
+                        <div class="preco">
+                            <h2>R$ 250,00</h2>
+                        </div>
+                        <!--preco-->
+                    </div>
+                    <!--box-planos-wraper-->
+                </div>
+                <!--box-planos-single-->
+
+                <div class="box-planos-single">
+                    <div class="box-planos-wraper">
+                        <h2>Lorem Ipsum</h2>
+                        <div class="pontos-plano">
+                            <p><i class="fa fa-check-square"></i>Lorem Ipsum silor domor</p>
+                            <p><i class="fa fa-check-square"></i>Lorem Ipsum silor domor</p>
+                            <p><i class="fa fa-check-square"></i>Lorem Ipsum silor domor</p>
+                            <p><i class="fa fa-check-square"></i>Lorem Ipsum silor domor</p>
+                        </div>
+                        <!--pontos-plano-->
+                        <div class="preco">
+                            <h2>R$ 250,00</h2>
+                        </div>
+                        <!--preco-->
+                    </div>
+                    <!--box-planos-wraper-->
+                </div>
+                <!--box-planos-single-->
+
+                <div class="box-planos-single">
+                    <div class="box-planos-wraper">
+                        <h2>Lorem Ipsum</h2>
+                        <div class="pontos-plano">
+                            <p><i class="fa fa-check-square"></i>Lorem Ipsum silor domor</p>
+                            <p><i class="fa fa-check-square"></i>Lorem Ipsum silor domor</p>
+                            <p><i class="fa fa-check-square"></i>Lorem Ipsum silor domor</p>
+                            <p><i class="fa fa-check-square"></i>Lorem Ipsum silor domor</p>
+                        </div>
+                        <!--pontos-plano-->
+                        <div class="preco">
+                            <h2>R$ 250,00</h2>
+                        </div>
+                        <!--preco-->
+                    </div>
+                    <!--box-planos-single-->
+                </div>
+                <!--box-planos-wraper-->
+
             </div>
             <!--center-->
         </section>
