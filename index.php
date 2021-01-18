@@ -13,17 +13,20 @@
 
 <body>
     <section class="main">
-        <div class="layer"></div><!--layer-->
+        <div class="layer"></div>
+        <!--layer-->
         <div class="center">
             <header>
                 <div class="icons-social">
                     <a href="https://facebook.com"><i class="fab fa-facebook" aria-hidden="true"></i></a>
                     <a href="https://instagram.com"><i class="fab fa-instagram" aria-hidden="true"></i></a>
-                </div><!--icons-social-->
+                </div>
+                <!--icons-social-->
                 <div class="clear"></div>
                 <div class="logo">
                     DAST
-                </div><!--logo-->
+                </div>
+                <!--logo-->
                 <nav class="desktop">
                     <ul>
                         <li><a href="">Home</a></li>
@@ -33,8 +36,17 @@
                 </nav>
                 <div class="clear"></div>
             </header>
-        </div><!--center-->
-    </section><!--main-->
+            <div class="conteudo-header">
+                <h2>Bem vindo(a) ao nosso <span>Website!</span></h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec volutpat molestie varius. Mauris hendrerit tincidunt est, vel elementum felis hendrerit eget. Curabitur ante ex, accumsan eget nibh sed, ultricies gravida elit. Duis nisi purus, tempus sed molestie at, suscipit eget dolor. </p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec volutpat molestie varius. Mauris hendrerit tincidunt est, vel elementum felis hendrerit eget. Curabitur ante ex, accumsan eget nibh sed, ultricies gravida elit. Duis nisi purus, tempus sed molestie at, suscipit eget dolor. </p>
+                <a href="">Saiba mais!</a>
+            </div>
+            <!--conteudo-header-->
+        </div>
+        <!--center-->
+    </section>
+    <!--main-->
 
 </body>
 
