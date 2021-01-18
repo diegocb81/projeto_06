@@ -121,6 +121,15 @@
         <!--box-planos-->
     </section>
 
+    <section class="parallax">
+        <div class="overlay-parallax"></div>
+        <div class="center">
+            <h2>Sobre nossa <span style="color: #2692FF">empresa</span></h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec volutpat molestie varius. Mauris hendrerit tincidunt est, vel elementum felis hendrerit eget. Curabitur ante ex, accumsan eget nibh sed, ultricies gravida elit. Duis nisi purus, tempus sed molestie at, suscipit eget dolor. </p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec volutpat molestie varius. Mauris hendrerit tincidunt est, vel elementum felis hendrerit eget. Curabitur ante ex, accumsan eget nibh sed, ultricies gravida elit. Duis nisi purus, tempus sed molestie at, suscipit eget dolor. </p>
+        </div><!--center-->
+    </section><!--parallax-->
+
 </body>
 
 </html>
