@@ -71,6 +71,23 @@ section.main header{
     font-weight: bold;
 }
 
+nav.mobile{
+    display: none;
+    float: right;
+}
+
+nav.mobile > i{
+    font-size: 25px;
+    color: white;
+    cursor: pointer;
+    position: relative;
+    top: 23px;
+}
+
+nav.mobile ul{
+    display: none;
+}
+
 nav.desktop{
     margin-top: 20px;
     float: right;
@@ -352,6 +369,12 @@ section.final-section h2:hover > .borda-efeito{
 }
 
 @media screen and (max-width: 768px){
+    nav.mobile{
+        display: block;
+    }
+    nav.dektop{
+        display: none;
+    }
     .w50{
         width: 100%;
     }
