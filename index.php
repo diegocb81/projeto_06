@@ -133,8 +133,10 @@
     <!--parallax-->
     <section class="final-section">
         <div class="center">
-            <div class="w50" contato>
-                <h2><div class="borda-efeito"></div>Entre em contato!</h2>
+            <div class="w50 contato">
+                <h2>
+                    <div class="borda-efeito"></div>Entre em contato!
+                </h2>
                 <form>
                     <input type="text" placeholder="Insira seu nome...">
                     <input type="email" placeholder="Insira seu e-mail...">
@@ -143,29 +145,65 @@
                 </form>
             </div>
 
-            <div class="w50" time>
-                <h2><div class="borda-efeito"></div>Conheça nosso time!</h2>
+            <div class="w50 time">
+                <h2>
+                    <div class="borda-efeito"></div>Conheça nosso time!
+                </h2>
                 <div class="w50 equipe-single">
                     <div class="topo-box-usuario">
-                        <div class="box-avatar"></div><div class="info-usuario">
+                        <div class="box-avatar"></div>
+                        <div class="info-usuario">
                             <p style="font-weight: bold;">Diego Barcellos</p>
                             <p style="font-weight: italic;">Administrador</p>
                         </div>
-                    </div><!--topo-box-usuario-->
+                    </div>
+                    <!--topo-box-usuario-->
                     <div class="descricao-usuario-box">
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur convallis molestie ipsum, a fermentum erat pellentesque non. Etiam eu imperdiet lorem.</p>
-                    </div><!--descricao-usuario-box-->
+                    </div>
+                    <!--descricao-usuario-box-->
                 </div>
                 <div class="w50 equipe-single">
                     <div class="topo-box-usuario">
-                        <div class="box-avatar"></div><div class="info-usuario">
+                        <div class="box-avatar"></div>
+                        <div class="info-usuario">
                             <p style="font-weight: bold;">Diego Barcellos</p>
                             <p style="font-weight: italic;">Administrador</p>
                         </div>
-                    </div><!--topo-box-usuario-->
+                    </div>
+                    <!--topo-box-usuario-->
                     <div class="descricao-usuario-box">
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur convallis molestie ipsum, a fermentum erat pellentesque non. Etiam eu imperdiet lorem.</p>
-                    </div><!--descricao-usuario-box-->
+                    </div>
+                    <!--descricao-usuario-box-->
+                </div>
+                <div class="w50 equipe-single">
+                    <div class="topo-box-usuario">
+                        <div class="box-avatar"></div>
+                        <div class="info-usuario">
+                            <p style="font-weight: bold;">Diego Barcellos</p>
+                            <p style="font-weight: italic;">Administrador</p>
+                        </div>
+                    </div>
+                    <!--topo-box-usuario-->
+                    <div class="descricao-usuario-box">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur convallis molestie ipsum, a fermentum erat pellentesque non. Etiam eu imperdiet lorem.</p>
+                    </div>
+                    <!--descricao-usuario-box-->
+                </div>
+                <div class="w50 equipe-single">
+                    <div class="topo-box-usuario">
+                        <div class="box-avatar"></div>
+                        <div class="info-usuario">
+                            <p style="font-weight: bold;">Diego Barcellos</p>
+                            <p style="font-weight: italic;">Administrador</p>
+                        </div>
+                    </div>
+                    <!--topo-box-usuario-->
+                    <div class="descricao-usuario-box">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur convallis molestie ipsum, a fermentum erat pellentesque non. Etiam eu imperdiet lorem.</p>
+                    </div>
+                    <!--descricao-usuario-box-->
                 </div>
                 <div class="clear"></div>
             </div>
