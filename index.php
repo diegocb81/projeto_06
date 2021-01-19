@@ -127,8 +127,51 @@
             <h2>Sobre nossa <span style="color: #2692FF">empresa</span></h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec volutpat molestie varius. Mauris hendrerit tincidunt est, vel elementum felis hendrerit eget. Curabitur ante ex, accumsan eget nibh sed, ultricies gravida elit. Duis nisi purus, tempus sed molestie at, suscipit eget dolor. </p>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec volutpat molestie varius. Mauris hendrerit tincidunt est, vel elementum felis hendrerit eget. Curabitur ante ex, accumsan eget nibh sed, ultricies gravida elit. Duis nisi purus, tempus sed molestie at, suscipit eget dolor. </p>
-        </div><!--center-->
-    </section><!--parallax-->
+        </div>
+        <!--center-->
+    </section>
+    <!--parallax-->
+    <section class="final-section">
+        <div class="center">
+            <div class="w50" contato>
+                <h2><div class="borda-efeito"></div>Entre em contato!</h2>
+                <form>
+                    <input type="text" placeholder="Insira seu nome...">
+                    <input type="email" placeholder="Insira seu e-mail...">
+                    <textarea placeholder="Sua mensagem..."></textarea>
+                    <input type="submit" value="Enviar!">
+                </form>
+            </div>
+
+            <div class="w50" time>
+                <h2><div class="borda-efeito"></div>Conheça nosso time!</h2>
+                <div class="w50 equipe-single">
+                    <div class="topo-box-usuario">
+                        <div class="box-avatar"></div><div class="info-usuario">
+                            <p style="font-weight: bold;">Diego Barcellos</p>
+                            <p style="font-weight: italic;">Administrador</p>
+                        </div>
+                    </div><!--topo-box-usuario-->
+                    <div class="descricao-usuario-box">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur convallis molestie ipsum, a fermentum erat pellentesque non. Etiam eu imperdiet lorem.</p>
+                    </div><!--descricao-usuario-box-->
+                </div>
+                <div class="w50 equipe-single">
+                    <div class="topo-box-usuario">
+                        <div class="box-avatar"></div><div class="info-usuario">
+                            <p style="font-weight: bold;">Diego Barcellos</p>
+                            <p style="font-weight: italic;">Administrador</p>
+                        </div>
+                    </div><!--topo-box-usuario-->
+                    <div class="descricao-usuario-box">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur convallis molestie ipsum, a fermentum erat pellentesque non. Etiam eu imperdiet lorem.</p>
+                    </div><!--descricao-usuario-box-->
+                </div>
+                <div class="clear"></div>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </section>
 
 </body>
 
