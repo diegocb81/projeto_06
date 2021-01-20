@@ -9,7 +9,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/fontawesome.min.css">
     <link rel="stylesheet" href="css/all.css">
-    <link rel="shortcut icon" href="image-x/png" href="img/icone.ico">
+    <link rel="shortcut icon" type="image-x/png" href="img/icone.ico">
 </head>
 
 <body>

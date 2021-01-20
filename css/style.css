@@ -265,6 +265,7 @@ section.parallax h2{
 section.parallax p{
     color: white;
     margin-top: 15px;
+    text-align: justify;
 }
 
 .overlay-parallax{
@@ -386,6 +387,7 @@ section.final-section h2:hover > .borda-efeito{
     font-weight: lighter;
     font-size: 14px;
     margin-top: 10px;
+    text-align: justify;
 }
 
 footer{
