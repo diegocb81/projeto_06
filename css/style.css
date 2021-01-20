@@ -86,6 +86,26 @@ nav.mobile > i{
 
 nav.mobile ul{
     display: none;
+    position: absolute;
+    left: 0;
+    top: 95px;
+    background: white;
+    width: 100%;
+    list-style-type: none;
+    z-index: 2;
+}
+
+nav.mobile li{
+    padding: 8px 0;
+    text-align: center;
+    font-weight: lighter;
+    border-bottom: 1px solid #444;
+}
+
+nav.mobile a{
+    text-decoration: none;
+    color: #444;
+    display: block;
 }
 
 nav.desktop{
@@ -113,7 +133,7 @@ nav.desktop a{
     max-width: 700px;
     margin: 110px 0;
     position: relative;
-    z-index: 2 ;
+    z-index: 1;
 }
 
 .conteudo-header h2{
@@ -368,11 +388,19 @@ section.final-section h2:hover > .borda-efeito{
     margin-top: 10px;
 }
 
+footer{
+    width: 100%;
+    padding: 10px 2%;
+    text-align: center;
+    color: white;
+    background: #444444;
+}
+
 @media screen and (max-width: 768px){
     nav.mobile{
         display: block;
     }
-    nav.dektop{
+    nav.desktop{
         display: none;
     }
     .w50{
