@@ -19,8 +19,8 @@
         <div class="center">
             <header>
                 <div class="icons-social">
-                    <a href="https://facebook.com"><i class="fab fa-facebook" aria-hidden="true"></i></a>
-                    <a href="https://instagram.com"><i class="fab fa-instagram" aria-hidden="true"></i></a>
+                    <a href="https://facebook.com" target="_blank"><i class="fab fa-facebook" aria-hidden="true"></i></a>
+                    <a href="https://instagram.com" target="_blank"><i class="fab fa-instagram" aria-hidden="true"></i></a>
                 </div>
                 <!--icons-social-->
                 <div class="clear"></div>
