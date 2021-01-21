@@ -78,7 +78,7 @@
                         </div>
                         <!--pontos-plano-->
                         <div class="preco">
-                            <h2>R$ 250,00</h2>
+                            <h2>R$ 49,90</h2>
                         </div>
                         <!--preco-->
                     </div>
@@ -97,7 +97,7 @@
                         </div>
                         <!--pontos-plano-->
                         <div class="preco">
-                            <h2>R$ 250,00</h2>
+                            <h2>R$ 79,90</h2>
                         </div>
                         <!--preco-->
                     </div>
@@ -116,7 +116,7 @@
                         </div>
                         <!--pontos-plano-->
                         <div class="preco">
-                            <h2>R$ 250,00</h2>
+                            <h2>R$ 99,90</h2>
                         </div>
                         <!--preco-->
                     </div>
